@@ -1,0 +1,70 @@
+{
+  "name": "SOL-G001GPON",
+  "type": "private_supergroup",
+  "id": 2452272623,
+  "messages": [
+   {
+    "id": 1,
+    "type": "service",
+    "date": "2024-09-06T15:11:59",
+    "date_unixtime": "1725635519",
+    "actor": "SOL-G002GPON",
+    "actor_id": "channel2452272624",
+    "action": "migrate_from_group",
+    "title": "SOL-G002GPON",
+    "text": "",
+    "text_entities": []
+   },
+   {
+    "id": 2,
+    "type": "message",
+    "date": "2024-09-06T15:14:52",
+    "date_unixtime": "1725635692",
+    "from": "OP DOMENICA",
+    "from_id": "user6088355624",
+    "photo": "photo_1@06-09-2024_15-14-52.jpg",
+    "width": 881,
+    "height": 291,
+    "text": [
+     "OT2209835  URB GUAYACANES - 2DA MZ : 52 Villa : 34A   AVEIGA MOSQUERA JOHNNY JEMS   OFSC  EN RUTA  2924332      CF ",
+     {
+      "type": "phone",
+      "text": "0989759379"
+     },
+     " 11AM    Garantías Instalaciones\n\n\n485754434A174FAF"
+    ],
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "ESTO ES GRUPO 1 "
+     },
+     {
+      "type": "phone",
+      "text": "0989759379"
+     },
+     {
+      "type": "plain",
+      "text": " 11AM    Garantías Instalaciones\n\n\n485754434A174FAF"
+     }
+    ]
+   },
+   {
+    "id": 3,
+    "type": "message",
+    "date": "2024-09-06T15:14:53",
+    "date_unixtime": "1725635693",
+    "from": "OP DOMENICA",
+    "from_id": "user6088355624",
+    "photo": "photo_2@06-09-2024_15-14-53.jpg",
+    "width": 343,
+    "height": 99,
+    "text":["1111111111111111111111111111111111"],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": " Ejemplo1"
+       }
+    ]
+   }
+  ]
+}
